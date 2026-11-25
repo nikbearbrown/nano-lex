@@ -1,0 +1,14 @@
+Concept: "{preferred_name}" (term form: {kind})
+Definition A: {text_a}
+Definition B: {text_b}
+
+Choose exactly one label:
+EQUIVALENT: same sense, same kind of thing, same essential features; either could replace the other.
+A_NARROWER: same sense, A's scope is strictly inside B's.   B_NARROWER: the reverse.
+OVERLAPPING: same sense, different emphasis, neither contains the other, nothing contradicts.
+CONFLICTING: same sense, but some factual claim in one contradicts the other (what it is a kind of,
+             what it consists of or acts on, its size range, material class or main use, where or by whom a name is used).
+DIFFERENT_SENSE: they describe different things.
+UNSURE: you cannot tell (counted as missing; do not use it to avoid hard items).
+Return: {"label": "...", "same_sense": true|false, "genus_a": "...", "genus_b": "...",
+         "conflicts": [{"a": "<span>", "b": "<span>"}], "confidence": 1-5, "rationale": "<=40 words"}

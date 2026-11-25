@@ -1,0 +1,12 @@
+Concept: "{preferred_name}" (term form: {kind})
+Other seed terms the drafters named as neighbours, for orientation only: {up to 10 neighbour names}
+
+Each drafter states the sense of this concept:
+{for each item, in random order: [S1] text, [S2] text, ...}
+
+Group the statements so that two statements share a group if and only if they refer to the same thing in
+nanomedicine or encyclopaedic usage (same referent), even if one is broader or narrower. Different
+referents (for example a material versus a product made from it, a carrier versus the drug it carries, or an
+abbreviation that also stands for something else) go in different groups. A statement that the term is out of scope or a duplicate forms its own group.
+Return: {"groups": [["S1","S3"],["S2"]], "majority_reading": "<10 words>", "ambiguous_name": true|false,
+         "note": "<=30 words"}

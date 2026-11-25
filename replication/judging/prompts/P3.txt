@@ -1,0 +1,10 @@
+Concept: "{preferred_name}" (term form: {kind})
+Below are {variant names | relation targets} proposed by anonymous drafters, in random order, each
+with an item id. {for targets: each line shows the target name and, if given, its seed concept id}
+{I1 ...} {I2 ...} ...
+
+Group items that name the SAME concept. {Variants: a variant matches only if, in nanomedicine or
+encyclopaedic usage, it would name this same concept.} {Targets: ignore the relation type; group by what the target is.}
+Do not group a thing with a broader or narrower thing (a PEGylated liposome is not a liposome; a gold nanorod is not a
+gold nanoparticle).
+Return: {"groups": [["I1","I4"],["I2"],["I3"]], "notes": {"I3": "<=20 words if unsure"}}

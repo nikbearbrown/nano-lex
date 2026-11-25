@@ -1,0 +1,12 @@
+Concept: "{preferred_name}" (term form: {kind})
+Two anonymous drafters linked this concept to different entries in {source} (Wikipedia, Wikidata or WordNet):
+Link A: {link_a_label} - {link_a_description}
+Link B: {link_b_label} - {link_b_description}
+
+Choose exactly one label:
+COMPATIBLE: both links denote this concept, or one is a close, acceptable stand-in for the
+            other (a redirect, a product against its product family, a synset against its near-identical
+            sibling).
+CONFLICTING: the links denote different things, and at least one of them is the wrong sense for this concept.
+UNSURE: you cannot tell.
+Return: {"label": "...", "confidence": 1-5, "rationale": "<=40 words"}

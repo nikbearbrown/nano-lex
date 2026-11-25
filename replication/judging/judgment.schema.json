@@ -1,0 +1,204 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "replication/judging/judgment.schema.json",
+  "title": "One agreement judgment (model or human judge). Header lines with \"_batch\" are allowed in model result files.",
+  "type": "object",
+  "required": [
+    "judgment_id",
+    "request_id",
+    "stage",
+    "concept_id",
+    "judge",
+    "run_index",
+    "prompt_version",
+    "label",
+    "fields",
+    "notes",
+    "confirmed",
+    "created_at"
+  ],
+  "properties": {
+    "judgment_id": {
+      "type": "string"
+    },
+    "request_id": {
+      "type": "string",
+      "description": "From the packet or sample line; never invent one"
+    },
+    "stage": {
+      "enum": [
+        "P1",
+        "P2",
+        "P3",
+        "P4",
+        "P5",
+        "P6"
+      ]
+    },
+    "concept_id": {
+      "type": "string"
+    },
+    "field": {
+      "type": "string"
+    },
+    "judge": {
+      "type": "object",
+      "required": [
+        "id",
+        "type"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "model judge: <provider>-<model name>-<version>, for example anthropic-claude-fable-5-2 (or ...-version-unknown, flagged); human: human-<name>"
+        },
+        "type": {
+          "enum": [
+            "model",
+            "human"
+          ]
+        },
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "human: the judge's name, as the commit author"
+        },
+        "harness": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "model or interviewer: codex | claude-code | ..."
+        },
+        "model_reported": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "model: as the harness reports it; human: the interviewer agent's model"
+        },
+        "judge_version": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "provider": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "model judge: openai | anthropic | xai | ..."
+        },
+        "model_name": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "model judge: for example claude-fable"
+        },
+        "model_version": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "model judge: REQUIRED key; the exact version as the harness states it (for example 5.2). null only when the judge recorded --version-unknown, which flags the run."
+        }
+      }
+    },
+    "run_index": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "order_seed": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "prompt_version": {
+      "type": "string"
+    },
+    "prompt_sha256": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "label": {
+      "type": "string",
+      "description": "P2: EQUIVALENT|A_NARROWER|B_NARROWER|OVERLAPPING|CONFLICTING|DIFFERENT_SENSE; P4: SAME_TYPE|COMPATIBLE_TYPE|REVERSED|CONFLICTING_TYPE; P5: SAME_CONDITION|COMPATIBLE_CONDITION|CONFLICTING_CONDITION; P6: COMPATIBLE|CONFLICTING; P1/P3: GROUPS (the groups go in fields.groups); any stage: UNSURE"
+    },
+    "fields": {
+      "type": "object",
+      "description": "Stage-specific sub-fields, for example same_sense, genus_a, genus_b, conflicts, groups, confidence (1-5), rationale (40 words at most)"
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "human: the judge's own words, verbatim; model: null"
+    },
+    "confirmed": {
+      "type": [
+        "boolean",
+        "null"
+      ],
+      "description": "human: true only after the judge accepted the read-back label; model: null"
+    },
+    "valid": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "attempts": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "raw_sha256": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "created_at": {
+      "type": "string",
+      "description": "ISO 8601 with offset, for example 2026-12-01T10:00:00-05:00"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "judge": {
+            "properties": {
+              "type": {
+                "const": "model"
+              }
+            }
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "judge": {
+            "required": [
+              "id",
+              "type",
+              "provider",
+              "model_name",
+              "model_version",
+              "model_reported"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+Concept: "{preferred_name}" (term form: {kind})
+Two anonymous drafters list the same alternative name, "{variant}", for this concept. Each says when the
+name refers to this concept:
+Condition A: {condition_a}
+Condition B: {condition_b}
+("always" means the drafter gave no condition.)
+
+Choose exactly one label:
+SAME_CONDITION: both describe the same circumstances (including both "always").
+COMPATIBLE_CONDITION: different wording or scope, but they never contradict (one may be stricter).
+CONFLICTING_CONDITION: they contradict: one says the name means this concept in circumstances where the
+                       other says it does not.
+UNSURE: you cannot tell.
+Return: {"label": "...", "confidence": 1-5, "rationale": "<=40 words"}

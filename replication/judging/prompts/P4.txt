@@ -1,0 +1,20 @@
+Concept: "{preferred_name}" (term form: {kind})
+Two anonymous drafters relate this concept to the same target, "{target_name}":
+Statement A: {sentence_a}
+Statement B: {sentence_b}
+
+Each statement is written with the relation's own test, for example "X is a kind of Y" (hypernym),
+"Y is a kind of X" (hyponym), "X routinely includes Y as a component" (meronym), "X is routinely a
+component of Y" (holonym), "X typically uses Y (a device, agent or technique)" (uses), "X requires Y in order to be carried out" (requires),
+"X attests to Y" (certifies), "Y is often confused with X but differs" (contrast), "Y can replace X" (synonym),
+or "X is related to Y" (related, a broad association).
+
+Choose exactly one label:
+SAME_TYPE: both statements make the same claim.
+COMPATIBLE_TYPE: different claims that can both be true and point the same way (for example uses and requires;
+                 related and any association).
+REVERSED: the same kind of claim in opposite directions (kind-of against has-kinds; part-of against has-parts).
+CONFLICTING_TYPE: the claims cannot both be true (for example kind-of against often-confused-with; synonym
+                  against contrast).
+UNSURE: you cannot tell.
+Return: {"label": "...", "confidence": 1-5, "rationale": "<=40 words"}

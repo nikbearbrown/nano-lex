@@ -1,0 +1,978 @@
+concept_id	preferred_name	term_form	merged_forms
+nanolex:0001	10-Hydroxycamptothecin	single-word	
+nanolex:0002	3D Hydrogel	multiword	
+nanolex:0003	Abelcet	single-word	
+nanolex:0004	Abelcet® in Nanomedicine	multiword	
+nanolex:0005	Abraxane	single-word	
+nanolex:0006	Acid Sensing Ion Channel (ASIC)	abbreviated	
+nanolex:0007	Active Targeting	multiword	
+nanolex:0008	Administration, Intranasal	multiword	
+nanolex:0009	Ag Nanocluster	multiword	
+nanolex:0010	AG NANOWIRE	multiword	
+nanolex:0011	Ag NP	multiword	
+nanolex:0012	Aggregation-Induced Emission (AIE)	abbreviated	
+nanolex:0013	Albumin Nanoparticle	multiword	
+nanolex:0014	Albumin-Bound Paclitaxel	multiword	
+nanolex:0015	Aluminum Tetrasulfophthalocyanine	multiword	
+nanolex:0016	Ambisome	single-word	
+nanolex:0017	Amphiphilic Star-like Block Copolymer	multiword	
+nanolex:0018	Amphotec	single-word	
+nanolex:0019	Aptamer	single-word	
+nanolex:0020	Aptasensor	single-word	
+nanolex:0021	Au Functionalized Graphene Oxide	multiword	
+nanolex:0022	Au NP (Gold Nanoparticles)	multiword	
+nanolex:0023	au@ptnp	single-word	
+nanolex:0024	BCTP 401 Nanoemulsion	multiword	
+nanolex:0025	BCTP Nanoemulsion	multiword	
+nanolex:0026	Bilirubin Nanomedicine	multiword	
+nanolex:0027	Bimetallic Nanoparticle	multiword	
+nanolex:0028	Bio-imaging	single-word	
+nanolex:0029	Bio-nanocapsule	single-word	
+nanolex:0030	Bio-Traditional Chinese Medicine (Bio-TCM)	abbreviated	
+nanolex:0031	Bioactive Nanomaterial	multiword	
+nanolex:0032	Bioactive Peptide	multiword	
+nanolex:0033	Biocompatible Material	multiword	
+nanolex:0034	Biocomposite	single-word	
+nanolex:0035	Biodegradable Lipid Nanoparticle	multiword	
+nanolex:0036	Biodegradable Micelle	multiword	
+nanolex:0037	Biodegradable Nanoparticle	multiword	
+nanolex:0038	Biodegradable Polymer	multiword	
+nanolex:0039	Biogenic Nanoparticle	multiword	
+nanolex:0040	Biogenic Palladium	multiword	
+nanolex:0041	Biohybrid	single-word	
+nanolex:0042	Bioinspired Exosome-like Biomaterial	multiword	
+nanolex:0043	Biomedical Nanotechnology	multiword	
+nanolex:0044	Biomimetic Chemistry	multiword	
+nanolex:0045	Biomimetic Nanoparticle	multiword	
+nanolex:0046	Bionanocomposite	single-word	
+nanolex:0047	Bionanotechnology	single-word	
+nanolex:0048	Bioorthogonal Catalysis	multiword	
+nanolex:0049	Calcifying Nanoparticle	multiword	
+nanolex:0050	Calcium Phosphate Nanoparticle	multiword	
+nanolex:0051	Camptothecin	single-word	
+nanolex:0052	Cancer Gene Therapy	multiword	
+nanolex:0053	Cancer Nanomedicine	multiword	
+nanolex:0054	Cancer Nanotechnology	multiword	
+nanolex:0055	Cancer Theranostic	multiword	
+nanolex:0056	Carbon Black Nanoparticle	multiword	
+nanolex:0057	Carbon Dot	multiword	
+nanolex:0058	Carbon Nanocomposite	multiword	
+nanolex:0059	Carbon Nanomaterial	multiword	
+nanolex:0060	Carbon Nanoparticle	multiword	
+nanolex:0061	Carbon Nanotube (CNT)	abbreviated	
+nanolex:0062	Carbon Quantum Dot	multiword	
+nanolex:0063	Carbon-Based Nanomaterial	multiword	
+nanolex:0064	Casein Phosphopeptide-Amorphous Calcium Phosphate Nanocomplex	multiword	
+nanolex:0065	Cationic Nanoparticle	multiword	
+nanolex:0066	CD47	abbreviated	
+nanolex:0067	cds@eu/gmp Infinite Coordination Polymer Nanoparticle	multiword	
+nanolex:0068	Cdse/Zn Quantum Dot	multiword	
+nanolex:0069	cdse@zn Quantum Dot	multiword	
+nanolex:0070	Cell Nanocoating	multiword	
+nanolex:0071	Cellular Uptake Mechanism	multiword	
+nanolex:0072	Cetuximab	single-word	
+nanolex:0073	Chemotherapeutic Drug	multiword	
+nanolex:0074	Chikungunya Virus	multiword	
+nanolex:0075	Chitin Nanofiber	multiword	
+nanolex:0076	Chitosan	single-word	
+nanolex:0077	Chitosan Hydrogel	multiword	
+nanolex:0078	Chitosan Nanoparticle	multiword	
+nanolex:0079	Chitosan-Silver Nanocomposite	multiword	
+nanolex:0080	Chitosan-TPP Nanoparticle	multiword	
+nanolex:0081	Chronic Wound Healing	multiword	
+nanolex:0082	Circulating Tumor Cell	multiword	
+nanolex:0083	Circulating Tumor Cell (CTC)	abbreviated	
+nanolex:0084	Cisplatin	single-word	
+nanolex:0085	Colloid	single-word	
+nanolex:0086	Colloidal Assembly	multiword	
+nanolex:0087	Colloidal Gold	multiword	
+nanolex:0088	Colloidal Nanocrystal	multiword	
+nanolex:0089	Composite Material	multiword	
+nanolex:0090	Composite Membrane	multiword	
+nanolex:0091	Composite Nanoparticle	multiword	
+nanolex:0092	Composite Photocatalyst	multiword	
+nanolex:0093	Composite Resin	multiword	
+nanolex:0094	Conan-1 Nanobody	multiword	
+nanolex:0095	Conductive Hydrogel	multiword	
+nanolex:0096	Copper Oxide Nanoparticle (nCuO)	abbreviated	
+nanolex:0097	Core-Shell Material	multiword	
+nanolex:0098	Core-Shell Microsphere	multiword	
+nanolex:0099	Core-Shell Nanocomposite	multiword	
+nanolex:0100	Core-Shell Nanofiber	multiword	
+nanolex:0101	Core-Shell Nanoparticle	multiword	
+nanolex:0102	Core/Shell Nanoparticle	multiword	
+nanolex:0103	Core/Shell Nanostructure	multiword	
+nanolex:0104	Core/Shell Structure	multiword	
+nanolex:0105	Covalent Organic Framework (COF)	abbreviated	
+nanolex:0106	cpx-351	single-word	
+nanolex:0107	CQD (Cadmium Quantum Dots)	multiword	
+nanolex:0108	CRGD	abbreviated	
+nanolex:0109	CRISPR/Cas9 Delivery	multiword	
+nanolex:0110	Cross-Linking Method	multiword	
+nanolex:0111	Cuprous Sulfide	multiword	
+nanolex:0112	Curcumin Nanoparticle	multiword	
+nanolex:0113	Cyclodextrin Polymer	multiword	
+nanolex:0114	Daunorubicin	single-word	
+nanolex:0115	DaunoXome	single-word	Daunoxome
+nanolex:0116	Dendrimer	single-word	
+nanolex:0117	Dendrimer Nanoparticle	multiword	
+nanolex:0118	Dendritic Cell	multiword	
+nanolex:0119	Depocyt	single-word	DepoCyt®
+nanolex:0120	DNA Aptamer	multiword	
+nanolex:0121	DNA Assembly	multiword	
+nanolex:0122	DNA Brick	multiword	
+nanolex:0123	DNA Fragmentation	multiword	
+nanolex:0124	DNA Hydrogel	multiword	
+nanolex:0125	DNA Nanodevice	multiword	
+nanolex:0126	DNA Nanomachine	multiword	
+nanolex:0127	DNA Nanostructure	multiword	
+nanolex:0128	DNA Nanotechnology	multiword	
+nanolex:0129	DNA Nanotube	multiword	
+nanolex:0130	DNA Nanowire	multiword	
+nanolex:0131	DNA-Based Vaccine	multiword	
+nanolex:0132	DNA-MWCNT Adduct	multiword	
+nanolex:0133	DNA-Nanotechnology	single-word	
+nanolex:0134	Dopamine	single-word	
+nanolex:0135	Doxil	single-word	Doxil®
+nanolex:0136	Doxorubicin	single-word	
+nanolex:0137	Drug Chronotherapy	multiword	
+nanolex:0138	Drug Nanocrystal	multiword	
+nanolex:0139	Drug Nanocrystals	multiword	
+nanolex:0140	Drug-Loaded Nanoparticle	multiword	
+nanolex:0141	Drug-Loaded Nanoparticles	multiword	
+nanolex:0142	Drug-resistant Bacterium	multiword	
+nanolex:0143	DSPE-PEG	abbreviated	dspe-peg
+nanolex:0144	Dual Delivery Nanoparticle	multiword	
+nanolex:0145	Dual Delivery Nanoparticles	multiword	
+nanolex:0146	Dual Tumor-Targeting Nanocarrier System	multiword	
+nanolex:0147	Dual-Modality Imaging	multiword	
+nanolex:0148	Dual-Mode	single-word	
+nanolex:0149	Dual-Responsive Drug Delivery	multiword	
+nanolex:0150	e-Jet 3D Printing	multiword	
+nanolex:0151	Echogenic Liposome	multiword	
+nanolex:0152	Electroactive Scaffold	multiword	
+nanolex:0153	Electroactive Scaffolds	multiword	
+nanolex:0154	Electrochemical Aptasensor	multiword	
+nanolex:0155	Electrochemical Biosensor	multiword	
+nanolex:0156	Electrochemical Immunosensor	multiword	
+nanolex:0157	Electrochemical Impedance Spectroscopy	multiword	
+nanolex:0158	Electropermeabilization	single-word	
+nanolex:0159	Electrospinning	single-word	
+nanolex:0160	Electrospraying	single-word	
+nanolex:0161	Electrospun Fiber	multiword	
+nanolex:0162	Electrospun Nanofiber	multiword	
+nanolex:0163	Electrospun Nanofiber Membrane	multiword	
+nanolex:0164	Eligard	single-word	
+nanolex:0165	Emend	single-word	
+nanolex:0166	Emulsion Polymerization	multiword	
+nanolex:0167	Encapsulation	single-word	
+nanolex:0168	Engineered Nanoparticle	multiword	
+nanolex:0169	Enhanced Permeability and Retention (EPR)	abbreviated	
+nanolex:0170	Enhanced Permeability and Retention (EPR) Effect	multiword	
+nanolex:0171	Enzyme-Responsive	single-word	
+nanolex:0172	EPR Effect	multiword	
+nanolex:0173	Exosome Isolation	multiword	
+nanolex:0174	Exosome-Liposome Hybrid Nanoparticle	multiword	
+nanolex:0175	Extracellular Vesicle	multiword	
+nanolex:0176	Extracellular Vesicle (EV)	abbreviated	
+nanolex:0177	fe3o4@sio2	single-word	
+nanolex:0178	Fepo(4) Nanoparticle	multiword	
+nanolex:0179	Feraheme	single-word	
+nanolex:0180	Feridex	single-word	
+nanolex:0181	Ferumoxsil	single-word	
+nanolex:0182	Ferumoxtran-10	single-word	
+nanolex:0183	Fluorescent Gold Nanocluster	multiword	
+nanolex:0184	Fluorescent Nanodiamond	multiword	
+nanolex:0185	Fluorescent Nanoparticle	multiword	
+nanolex:0186	Fluorescent Nanoprobe	multiword	
+nanolex:0187	Fluorescent Polymeric Nanoparticle	multiword	
+nanolex:0188	Fluorescent Probe	multiword	
+nanolex:0189	Fluorescent Sensor	multiword	
+nanolex:0190	Fluorescent Turn-On Sensor	multiword	
+nanolex:0191	Folic Acid-Targeted Liposome	multiword	
+nanolex:0192	Fullerene	single-word	
+nanolex:0193	Fullerene B(80)	abbreviated	
+nanolex:0194	Fullerene C60	multiword	
+nanolex:0195	Fullerene C70	multiword	
+nanolex:0196	Functionalized Graphene Oxide	multiword	
+nanolex:0197	Functionalized Nanoparticle	multiword	
+nanolex:0198	Gadolinium	single-word	
+nanolex:0199	Gated Mesoporous Silica Nanoparticle (GMSN)	abbreviated	
+nanolex:0200	ge11 Peptide	multiword	
+nanolex:0201	Gelatin Nanoparticle	multiword	
+nanolex:0202	Gene Delivery	multiword	
+nanolex:0203	Gene Therapy	multiword	
+nanolex:0204	Gene/Drug Delivery	multiword	
+nanolex:0205	Genexol	single-word	Genexol®
+nanolex:0206	Giant Unilamellar Vesicle (GUV)	abbreviated	
+nanolex:0207	Giant Unilamellar Vesicles	multiword	
+nanolex:0208	Ginsenoside Rg1	multiword	
+nanolex:0209	Gold Coated Magnetic Nanoparticle	multiword	
+nanolex:0210	Gold Colloid	multiword	
+nanolex:0211	Gold Colloid, Radioactive	multiword	
+nanolex:0212	Gold Nanocage	multiword	
+nanolex:0213	Gold Nanocluster	multiword	
+nanolex:0214	Gold Nanocluster (GNCs)	abbreviated	
+nanolex:0215	Gold Nanocrystal	multiword	
+nanolex:0216	Gold Nanoframe	multiword	
+nanolex:0217	Gold Nanoparticle	multiword	
+nanolex:0218	Gold Nanoparticle (AUNP)	abbreviated	
+nanolex:0219	Gold Nanoparticle Conjugate	multiword	
+nanolex:0220	Gold Nanoparticle Trapping	multiword	
+nanolex:0221	Gold Nanoparticles	multiword	
+nanolex:0222	Gold Nanorod	multiword	
+nanolex:0223	Gold Nanorods	multiword	
+nanolex:0224	Gold Nanoshell	multiword	
+nanolex:0225	Gold Nanosphere	multiword	
+nanolex:0226	Gold Nanostar	multiword	
+nanolex:0227	Gold Radioisotope	multiword	
+nanolex:0228	Gold Surface	multiword	
+nanolex:0229	Graphene Composite	multiword	
+nanolex:0230	Graphene Nanoplatelet	multiword	
+nanolex:0231	Graphene Nanoplatelets	multiword	
+nanolex:0232	Graphene Nanoribbon	multiword	
+nanolex:0233	Graphene Nanosheet	multiword	
+nanolex:0234	Graphene Oxide	multiword	
+nanolex:0235	Graphene Oxide (GO)	abbreviated	
+nanolex:0236	Graphene Oxide-Cu	multiword	
+nanolex:0237	Graphene Oxide-Silver Nanoparticle Nanocomposite	multiword	
+nanolex:0238	Graphene Quantum Dot	multiword	
+nanolex:0239	Green Fluorescence Protein	multiword	
+nanolex:0240	Hairy Plasmonic Nanoparticle	multiword	
+nanolex:0241	Hard/Soft Hybrid Nanomaterial	multiword	
+nanolex:0242	HER2-Negative Breast Cancer	multiword	
+nanolex:0243	Hierarchical Nanostructure	multiword	
+nanolex:0244	Hierarchical Structure	multiword	
+nanolex:0245	Hollow Fiber	multiword	
+nanolex:0246	Hollow Gold-Silver Nanoshell	multiword	
+nanolex:0247	Hollow Mesoporous Silica Nanoparticle	multiword	
+nanolex:0248	Hollow Molybdenum Disulfide Microcube	multiword	
+nanolex:0249	Hollow Nanoparticle	multiword	
+nanolex:0250	Hollow Polymeric Particle	multiword	
+nanolex:0251	Hollow Spheres	multiword	
+nanolex:0252	Hybrid Nanocomposite	multiword	
+nanolex:0253	Hybrid Nanomaterial	multiword	
+nanolex:0254	Hybrid Nanoparticle	multiword	
+nanolex:0255	Hybrid Nanosystem	multiword	
+nanolex:0256	Hydrodynamic Diameter	multiword	
+nanolex:0257	Hydrogel	single-word	
+nanolex:0258	Hydrogel Film	multiword	
+nanolex:0259	Hydrogel Nanoparticle	multiword	
+nanolex:0260	Hydrogel Scaffold	multiword	
+nanolex:0261	Hydrogel, Polyethylene Glycol Dimethacrylate	multiword	
+nanolex:0262	Hydrogel-based Mockup	multiword	
+nanolex:0263	Hydroxyapatite Nanoparticle	multiword	
+nanolex:0264	Hydroxycamptothecin	single-word	
+nanolex:0265	Immunoliposome	single-word	
+nanolex:0266	In Vitro Cytotoxicity	multiword	
+nanolex:0267	InAs Nanowire	multiword	
+nanolex:0268	Indocyanine Green	multiword	
+nanolex:0269	Injectable Hydrogel	multiword	
+nanolex:0270	Intranasal Drug Delivery	multiword	
+nanolex:0271	Intratumoral Immunotherapy	multiword	
+nanolex:0272	Iron Nanoparticle	multiword	
+nanolex:0273	Iron Oxide Magnetic Nanoparticle	multiword	
+nanolex:0274	Iron Oxide Nanoparticle	multiword	
+nanolex:0275	Iron-Dextran Complex	multiword	
+nanolex:0276	Janu Fiber	multiword	
+nanolex:0277	Janu Particle	multiword	
+nanolex:0278	Kadcyla	single-word	
+nanolex:0279	Ketac Nano	multiword	
+nanolex:0280	Lab on a Chip	multiword	
+nanolex:0281	Lab on a Chip Device	multiword	
+nanolex:0282	Lab-on-a-Chip Device	multiword	
+nanolex:0283	Lab-on-Chip	single-word	
+nanolex:0284	Lanthanide-Doped Nanoparticle	multiword	
+nanolex:0285	Layer-by-Layer Assembly	multiword	
+nanolex:0286	Layer-by-Layer Nanoparticle	multiword	
+nanolex:0287	Layer-by-Layer Nanoparticles	multiword	
+nanolex:0288	Layer-by-Layer Self-Assembly	multiword	
+nanolex:0289	Layer-by-Layer Technology	multiword	
+nanolex:0290	Levodopa Nanoparticle	multiword	
+nanolex:0291	Lipid Nanoparticle (LNP)	abbreviated	
+nanolex:0292	Lipid Raft	multiword	
+nanolex:0293	Lipid-Core Nanocapsule	multiword	
+nanolex:0294	Lipoid-Based Lipid Nanoparticles	multiword	
+nanolex:0295	Lipoplatin	single-word	
+nanolex:0296	Liposomal Chemotherapy Carrier	multiword	
+nanolex:0297	Liposomal Nanoparticle	multiword	
+nanolex:0298	Liposome	single-word	
+nanolex:0299	Liposomes	single-word	
+nanolex:0300	Liquid-Core Polymeric Particle	multiword	
+nanolex:0301	Localized Surface Plasmon Resonance	multiword	
+nanolex:0302	Localized Surface Plasmon Resonance (LSPR)	abbreviated	
+nanolex:0303	Magnetic Bead	multiword	
+nanolex:0304	Magnetic Beads	multiword	
+nanolex:0305	Magnetic Core Gold Nanoparticle	multiword	
+nanolex:0306	Magnetic Drug Delivery System	multiword	
+nanolex:0307	Magnetic Drug Targeting	multiword	
+nanolex:0308	Magnetic Fluid Hyperthermia	multiword	
+nanolex:0309	Magnetic Graphene Oxide	multiword	
+nanolex:0310	Magnetic Hydrogel	multiword	
+nanolex:0311	Magnetic Iron Oxide Nanoparticle (MIONP)	abbreviated	
+nanolex:0312	Magnetic Microbubble	multiword	
+nanolex:0313	Magnetic Microbubbles	multiword	
+nanolex:0314	Magnetic Microsphere	multiword	
+nanolex:0315	Magnetic Molecularly Imprinted Nanoparticle	multiword	
+nanolex:0316	Magnetic Nano Particle	multiword	
+nanolex:0317	Magnetic Nanocomposite	multiword	
+nanolex:0318	Magnetic Nanomaterial	multiword	
+nanolex:0319	Magnetic Nanoparticle	multiword	
+nanolex:0320	Magnetic Nanoparticle (MNP)	abbreviated	
+nanolex:0321	Magnetic Nanoparticle Mat	multiword	
+nanolex:0322	Magnetic Nanoporous Carbon	multiword	
+nanolex:0323	Magnetic Particle Imaging	multiword	
+nanolex:0324	Magnetic Porous Carbon	multiword	
+nanolex:0325	Magnetic Responsiveness	multiword	
+nanolex:0326	Magnetic Separation	multiword	
+nanolex:0327	Magnetic Targeting	multiword	
+nanolex:0328	Magnetic Trapping	multiword	
+nanolex:0329	Magnetite Nanoparticle	multiword	
+nanolex:0330	Magnetite Nanoparticles	multiword	
+nanolex:0331	Magnetophoresis	single-word	
+nanolex:0332	Magnetoresistive Sensor	multiword	
+nanolex:0333	Magnetotactic Bacteria	multiword	
+nanolex:0334	Magnetotactic Bacterium	multiword	
+nanolex:0335	Marqibo	single-word	
+nanolex:0336	Melanoma	single-word	
+nanolex:0337	Melanoma Cell Apoptosis	multiword	
+nanolex:0338	Mepact	single-word	Mepact™
+nanolex:0339	Mesoporous Activated Carbon (MAC)	abbreviated	
+nanolex:0340	Mesoporous Bioactive Glass	multiword	
+nanolex:0341	Mesoporous Material	multiword	
+nanolex:0342	Mesoporous Nanocarrier	multiword	
+nanolex:0343	Mesoporous Organosilica Nanoparticle (MONP)	abbreviated	
+nanolex:0344	Mesoporous Platinum Nanoparticle	multiword	
+nanolex:0345	Mesoporous Silica	multiword	
+nanolex:0346	Mesoporous Silica Nanoparticle	multiword	
+nanolex:0347	Metal Nanocluster	multiword	
+nanolex:0348	Metal Nanoparticle	multiword	
+nanolex:0349	Metal-Organic Framework	multiword	
+nanolex:0350	Metal-Organic Framework Nanoflower	multiword	
+nanolex:0351	Methotrexate Release	multiword	
+nanolex:0352	Methoxy Poly(ethylene Glycol-Co-Epsilon-Caprolactone)	multiword	
+nanolex:0353	Methoxy Poly(ethylene glycol-co-epsilon-caprolactone) (MPEG-PCL)	abbreviated	
+nanolex:0354	Micelle	single-word	
+nanolex:0355	Micelles	single-word	
+nanolex:0356	Microencapsulation	single-word	
+nanolex:0357	Microfluidic	single-word	
+nanolex:0358	Microfluidic Paper-Based Analytical Devices (µPADs)	multiword	
+nanolex:0359	Microparticle	single-word	
+nanolex:0360	Microscopy, Scanning Tunneling	multiword	
+nanolex:0361	Microsphere	single-word	
+nanolex:0362	Microwave Dynamic Therapy	multiword	
+nanolex:0363	Mito-Porter	single-word	
+nanolex:0364	Mitochondrial Membrane Potential	multiword	
+nanolex:0365	Mitoxantrone	single-word	
+nanolex:0366	Molecular Beacon	multiword	
+nanolex:0367	Molecular Imprinted Nanoparticle	multiword	
+nanolex:0368	Molecular Interaction	multiword	
+nanolex:0369	Moo(3) Nanoparticle	multiword	
+nanolex:0370	MRI Contrast Agent	multiword	
+nanolex:0371	mRNA Delivery	multiword	
+nanolex:0372	mRNA Drug	multiword	
+nanolex:0373	mRNA Therapeutic	multiword	
+nanolex:0374	mRNA Vaccine	multiword	
+nanolex:0375	mRNA Vaccines	multiword	
+nanolex:0376	Multicomponent Micelle	multiword	
+nanolex:0377	Multicomponent Micelles	multiword	
+nanolex:0378	Multifunctional Nanocarrier	multiword	
+nanolex:0379	Multifunctional Nanoparticle	multiword	
+nanolex:0380	Multifunctional Nanosystem	multiword	
+nanolex:0381	Multifunctional Theranostic	multiword	
+nanolex:0382	Multimodal Imaging	multiword	
+nanolex:0383	Multiwalled Carbon Nanotube (MWCNT)	abbreviated	
+nanolex:0384	Myocet	single-word	
+nanolex:0385	Nano Catalyst	nano-prefixed	
+nanolex:0386	Nano Catalysts	nano-prefixed	
+nanolex:0387	Nano Delivery System	nano-prefixed	
+nanolex:0388	Nano Drug Delivery Systems (Nano-DDS)	abbreviated	
+nanolex:0389	Nano Hydroxyapatite	nano-prefixed	
+nanolex:0390	Nano Liposome	nano-prefixed	
+nanolex:0391	Nano Particulate Strategy	nano-prefixed	
+nanolex:0392	Nano Silver	nano-prefixed	
+nanolex:0393	Nano SiO₂	nano-prefixed	
+nanolex:0394	Nano-based Pharmacological Intervention	nano-prefixed	
+nanolex:0395	Nano-Biocomposite	nano-prefixed	Nano-biocomposite
+nanolex:0396	Nano-biosynthesis	nano-prefixed	
+nanolex:0397	Nano-Bond Primer Dual-Cure Adhesive	nano-prefixed	
+nanolex:0398	Nano-Capsule	nano-prefixed	
+nanolex:0399	Nano-Carrier	nano-prefixed	
+nanolex:0400	Nano-Ceramic	nano-prefixed	
+nanolex:0401	Nano-Ceria	nano-prefixed	
+nanolex:0402	Nano-Chromium (Cr)	abbreviated	
+nanolex:0403	Nano-cocrystal	nano-prefixed	
+nanolex:0404	Nano-cocrystals	nano-prefixed	
+nanolex:0405	Nano-DD	nano-prefixed	
+nanolex:0406	Nano-Delivery	nano-prefixed	Nano-delivery
+nanolex:0407	Nano-Delivery Platform	nano-prefixed	
+nanolex:0408	Nano-Delivery System	nano-prefixed	
+nanolex:0409	Nano-drug	nano-prefixed	
+nanolex:0410	Nano-drug Cancer Diagnosis	nano-prefixed	
+nanolex:0411	Nano-Drug Cancer Drug Carrier	nano-prefixed	
+nanolex:0412	Nano-Drug Cancer Drug Complex	nano-prefixed	
+nanolex:0413	Nano-drug Cancer Drug Delivery	nano-prefixed	
+nanolex:0414	Nano-drug Cancer Drug Formulation	nano-prefixed	
+nanolex:0415	Nano-drug Cancer Drug Targeting	nano-prefixed	
+nanolex:0416	Nano-Drug Cancer Therapy	nano-prefixed	
+nanolex:0417	Nano-drug Cancer Treatment	nano-prefixed	
+nanolex:0418	Nano-Drug Carrier	nano-prefixed	
+nanolex:0419	Nano-Drug Complex	nano-prefixed	
+nanolex:0420	Nano-drug Conjugate	nano-prefixed	
+nanolex:0421	Nano-Drug Conjugates	nano-prefixed	
+nanolex:0422	Nano-drug Delivery	nano-prefixed	
+nanolex:0423	Nano-drug Drug Carrier	nano-prefixed	
+nanolex:0424	Nano-Drug Drug Complex	nano-prefixed	
+nanolex:0425	Nano-Drug Drug Delivery	nano-prefixed	
+nanolex:0426	Nano-Drug Drug Diagnosis	nano-prefixed	
+nanolex:0427	Nano-Drug Drug Encapsulation	nano-prefixed	
+nanolex:0428	Nano-drug Drug Formulation	nano-prefixed	
+nanolex:0429	Nano-Drug Drug Nanoparticle	nano-prefixed	
+nanolex:0430	Nano-Drug Drug Targeting	nano-prefixed	
+nanolex:0431	Nano-Drug Drug Therapy	nano-prefixed	
+nanolex:0432	Nano-Drug Drug Treatment	nano-prefixed	
+nanolex:0433	Nano-drug Encapsulation	nano-prefixed	
+nanolex:0434	Nano-drug Nanoparticle	nano-prefixed	
+nanolex:0435	Nano-Drug System	nano-prefixed	
+nanolex:0436	Nano-Drug Targeting	nano-prefixed	
+nanolex:0437	Nano-Drug Treatment	nano-prefixed	
+nanolex:0438	Nano-drugs	nano-prefixed	
+nanolex:0439	Nano-Electrosensing	nano-prefixed	
+nanolex:0440	Nano-emulsion	nano-prefixed	
+nanolex:0441	Nano-Encapsulation	nano-prefixed	Nano-encapsulation
+nanolex:0442	Nano-Encapsulation Process	nano-prefixed	
+nanolex:0443	Nano-Fiber	nano-prefixed	
+nanolex:0444	Nano-Fibrous Mat	nano-prefixed	
+nanolex:0445	Nano-Formulation	nano-prefixed	
+nanolex:0446	Nano-Hybrid	nano-prefixed	
+nanolex:0447	Nano-Hydroxyapatite	nano-prefixed	
+nanolex:0448	Nano-hydroxyapatite-collagen	nano-prefixed	
+nanolex:0449	Nano-Hydroxyapatite/Collagen	nano-prefixed	
+nanolex:0450	Nano-Imaging	nano-prefixed	
+nanolex:0451	Nano-Iron	nano-prefixed	
+nanolex:0452	Nano-Mesh	nano-prefixed	
+nanolex:0453	Nano-Micelle	nano-prefixed	
+nanolex:0454	Nano-MRI	nano-prefixed	
+nanolex:0455	Nano-Optic	nano-prefixed	
+nanolex:0456	Nano-Optics	nano-prefixed	
+nanolex:0457	Nano-particle	nano-prefixed	
+nanolex:0458	Nano-PSO	nano-prefixed	
+nanolex:0459	Nano-QSAR	nano-prefixed	
+nanolex:0460	Nano-Scale	nano-prefixed	
+nanolex:0461	Nano-Scintillator	nano-prefixed	
+nanolex:0462	Nano-Silver	nano-prefixed	
+nanolex:0463	Nano-Sized Antimicrobial Latex	nano-prefixed	
+nanolex:0464	Nano-Structured Drug Carrier	nano-prefixed	
+nanolex:0465	Nano-Structured Drug Carriers	nano-prefixed	
+nanolex:0466	Nano-Structured Drug Delivery System	nano-prefixed	
+nanolex:0467	Nano-therapeutic	nano-prefixed	
+nanolex:0468	Nano-TiO₂ (Nano-Titanium Dioxide)	nano-prefixed	
+nanolex:0469	Nano-ZnO	nano-prefixed	
+nanolex:0470	Nanoantenna	nano-prefixed	
+nanolex:0471	Nanoarchaeota	nano-prefixed	
+nanolex:0472	Nanoarray	nano-prefixed	
+nanolex:0473	Nanoassemblies	nano-prefixed	
+nanolex:0474	Nanoassembly	nano-prefixed	
+nanolex:0475	Nanobio Interface	nano-prefixed	
+nanolex:0476	Nanobiomaterial	nano-prefixed	
+nanolex:0477	Nanobiomaterials	nano-prefixed	
+nanolex:0478	Nanobiophotonic	nano-prefixed	
+nanolex:0479	Nanobiophotonics	nano-prefixed	
+nanolex:0480	Nanobiosensor	nano-prefixed	
+nanolex:0481	Nanobody	nano-prefixed	
+nanolex:0482	Nanobone	nano-prefixed	
+nanolex:0483	Nanobubble	nano-prefixed	
+nanolex:0484	Nanobubble (nb)	abbreviated	
+nanolex:0485	Nanobubbles (NBs)	abbreviated	
+nanolex:0486	Nanocage	nano-prefixed	
+nanolex:0487	Nanocapsule	nano-prefixed	
+nanolex:0488	Nanocapsules	nano-prefixed	
+nanolex:0489	Nanocarrier	nano-prefixed	
+nanolex:0490	Nanocatalysis	nano-prefixed	
+nanolex:0491	Nanocatalyst	nano-prefixed	
+nanolex:0492	Nanocellulose	nano-prefixed	
+nanolex:0493	Nanoceramic	nano-prefixed	
+nanolex:0494	Nanoceria	nano-prefixed	
+nanolex:0495	Nanochannel	nano-prefixed	
+nanolex:0496	Nanochannels	nano-prefixed	
+nanolex:0497	Nanochip	nano-prefixed	
+nanolex:0498	Nanoclay	nano-prefixed	
+nanolex:0499	Nanoclonal	nano-prefixed	
+nanolex:0500	Nanocluster	nano-prefixed	
+nanolex:0501	Nanoclusters	nano-prefixed	
+nanolex:0502	Nanocolloid	nano-prefixed	
+nanolex:0503	Nanocomplex	nano-prefixed	
+nanolex:0504	Nanocomposite	nano-prefixed	
+nanolex:0505	Nanocomposite Coating	nano-prefixed	
+nanolex:0506	Nanocomposite Film	nano-prefixed	
+nanolex:0507	Nanocomposite Hydrogel	nano-prefixed	
+nanolex:0508	Nanocomposite Magnet	nano-prefixed	
+nanolex:0509	Nanocomposite Membrane	nano-prefixed	
+nanolex:0510	Nanocomposites	nano-prefixed	
+nanolex:0511	Nanoconjugate	nano-prefixed	
+nanolex:0512	Nanocontainer	nano-prefixed	
+nanolex:0513	Nanocro	nano-prefixed	
+nanolex:0514	Nanocrystal	nano-prefixed	
+nanolex:0515	Nanocrystalline	nano-prefixed	
+nanolex:0516	Nanocurcumin	nano-prefixed	
+nanolex:0517	Nanocytology	nano-prefixed	
+nanolex:0518	Nanodelivery	nano-prefixed	
+nanolex:0519	Nanodevice	nano-prefixed	
+nanolex:0520	Nanodevices	nano-prefixed	
+nanolex:0521	Nanodiagnostic	nano-prefixed	
+nanolex:0522	Nanodiagnostics	nano-prefixed	
+nanolex:0523	Nanodiamond	nano-prefixed	
+nanolex:0524	Nanodisc	nano-prefixed	
+nanolex:0525	Nanodisk	nano-prefixed	
+nanolex:0526	Nanodispersion	nano-prefixed	
+nanolex:0527	Nanodosing	nano-prefixed	
+nanolex:0528	Nanodot	nano-prefixed	
+nanolex:0529	Nanodox	nano-prefixed	
+nanolex:0530	Nanodrop	nano-prefixed	
+nanolex:0531	Nanodroplet	nano-prefixed	
+nanolex:0532	Nanodrug	nano-prefixed	
+nanolex:0533	Nanodrug Delivery	nano-prefixed	
+nanolex:0534	Nanoecotoxicology	nano-prefixed	
+nanolex:0535	Nanoelectromechanical System	nano-prefixed	
+nanolex:0536	Nanoelectrosensing	nano-prefixed	
+nanolex:0537	Nanoemulgel	nano-prefixed	
+nanolex:0538	Nanoemulsification	nano-prefixed	
+nanolex:0539	Nanoemulsion	nano-prefixed	
+nanolex:0540	Nanoencapsulated	nano-prefixed	
+nanolex:0541	Nanoencapsulation	nano-prefixed	
+nanolex:0542	Nanoengineering	nano-prefixed	
+nanolex:0543	Nanofabrication	nano-prefixed	
+nanolex:0544	Nanofertilizer	nano-prefixed	
+nanolex:0545	Nanofiber	nano-prefixed	
+nanolex:0546	Nanofiber Membrane	nano-prefixed	
+nanolex:0547	Nanofiber Scaffold	nano-prefixed	
+nanolex:0548	Nanofibre	nano-prefixed	
+nanolex:0549	Nanofibril	nano-prefixed	
+nanolex:0550	Nanofibrous Membrane	nano-prefixed	
+nanolex:0551	Nanofibrous Scaffold	nano-prefixed	
+nanolex:0552	Nanofiller	nano-prefixed	
+nanolex:0553	Nanofiltration	nano-prefixed	
+nanolex:0554	Nanofiltration Membrane	nano-prefixed	
+nanolex:0555	Nanoflake	nano-prefixed	
+nanolex:0556	Nanoflower	nano-prefixed	
+nanolex:0557	Nanoflu	nano-prefixed	
+nanolex:0558	Nanoformulated Antiretroviral Therapy (NART)	abbreviated	
+nanolex:0559	Nanoformulation	nano-prefixed	
+nanolex:0560	Nanofracture	nano-prefixed	
+nanolex:0561	Nanofuse	nano-prefixed	
+nanolex:0562	Nanogel	nano-prefixed	
+nanolex:0563	Nanogenerator	nano-prefixed	
+nanolex:0564	Nanogold	nano-prefixed	
+nanolex:0565	Nanohybrid	nano-prefixed	
+nanolex:0566	Nanohybrid CAD/CAM	nano-prefixed	
+nanolex:0567	Nanohybrid Composite	nano-prefixed	
+nanolex:0568	Nanohydrogel	nano-prefixed	
+nanolex:0569	Nanohydroxyapatite	nano-prefixed	
+nanolex:0570	Nanoimaging	nano-prefixed	
+nanolex:0571	Nanoindentation	nano-prefixed	
+nanolex:0572	Nanoindustry	nano-prefixed	
+nanolex:0573	Nanoinformatic	nano-prefixed	
+nanolex:0574	Nanoionomer	nano-prefixed	
+nanolex:0575	Nanoiron	nano-prefixed	
+nanolex:0576	Nanoliposome	nano-prefixed	
+nanolex:0577	Nanolubricant	nano-prefixed	
+nanolex:0578	Nanoluc	nano-prefixed	
+nanolex:0579	Nanomagnetism	nano-prefixed	
+nanolex:0580	Nanomanipulation	nano-prefixed	
+nanolex:0581	Nanomanufacturing	nano-prefixed	
+nanolex:0582	Nanomaterial	nano-prefixed	
+nanolex:0583	Nanomedicine	nano-prefixed	
+nanolex:0584	Nanomedicine Monotherapy	nano-prefixed	
+nanolex:0585	Nanomembrane	nano-prefixed	
+nanolex:0586	Nanomer	nano-prefixed	
+nanolex:0587	Nanomesh	nano-prefixed	
+nanolex:0588	Nanomicelle	nano-prefixed	
+nanolex:0589	Nanomilled	nano-prefixed	
+nanolex:0590	Nanomineral	nano-prefixed	
+nanolex:0591	Nanomolecular	nano-prefixed	
+nanolex:0592	Nanomotor	nano-prefixed	
+nanolex:0593	Nanomri	nano-prefixed	
+nanolex:0594	Nanoneedle	nano-prefixed	
+nanolex:0595	Nanopac	nano-prefixed	
+nanolex:0596	Nanoparticle	nano-prefixed	
+nanolex:0597	Nanoparticle (nps)	abbreviated	
+nanolex:0598	Nanoparticle Aggregation	nano-prefixed	
+nanolex:0599	Nanoparticle Albumin-Bound Paclitaxel	nano-prefixed	
+nanolex:0600	Nanoparticle Array	nano-prefixed	
+nanolex:0601	Nanoparticle Assembly	nano-prefixed	
+nanolex:0602	Nanoparticle Characterization	nano-prefixed	
+nanolex:0603	Nanoparticle Cluster	nano-prefixed	
+nanolex:0604	Nanoparticle Composite	nano-prefixed	
+nanolex:0605	Nanoparticle Concentration	nano-prefixed	
+nanolex:0606	Nanoparticle Delivery	nano-prefixed	
+nanolex:0607	Nanoparticle Depot	nano-prefixed	
+nanolex:0608	Nanoparticle Drug Delivery System	nano-prefixed	
+nanolex:0609	Nanoparticle Enrichment	nano-prefixed	
+nanolex:0610	Nanoparticle Film	nano-prefixed	
+nanolex:0611	Nanoparticle Hyperthermia	nano-prefixed	
+nanolex:0612	Nanoparticle Imaging	nano-prefixed	
+nanolex:0613	Nanoparticle Surface Plasmon	nano-prefixed	
+nanolex:0614	Nanoparticle Synthesis	nano-prefixed	
+nanolex:0615	Nanoparticle Uptake	nano-prefixed	
+nanolex:0616	Nanoparticle Vaccine	nano-prefixed	
+nanolex:0617	Nanoparticle-Based Chemotherapy	nano-prefixed	
+nanolex:0618	Nanoparticle-based Drug Delivery	nano-prefixed	
+nanolex:0619	Nanoparticle-Labeled Stem Cell	nano-prefixed	
+nanolex:0620	Nanoparticles	nano-prefixed	
+nanolex:0621	Nanoparticles/Nanotechnology	nano-prefixed	
+nanolex:0622	Nanopatterning	nano-prefixed	
+nanolex:0623	Nanopesticide	nano-prefixed	
+nanolex:0624	Nanophotonic	nano-prefixed	
+nanolex:0625	Nanophotothermal	nano-prefixed	
+nanolex:0626	Nanophthalmic	nano-prefixed	
+nanolex:0627	Nanoplastic	nano-prefixed	
+nanolex:0628	Nanoplate	nano-prefixed	
+nanolex:0629	Nanoplatelet	nano-prefixed	
+nanolex:0630	Nanoplatform	nano-prefixed	
+nanolex:0631	Nanoporation	nano-prefixed	
+nanolex:0632	Nanopore	nano-prefixed	
+nanolex:0633	Nanopore Analysis	nano-prefixed	
+nanolex:0634	Nanopore Sensing	nano-prefixed	
+nanolex:0635	Nanopore Sequencing	nano-prefixed	
+nanolex:0636	Nanoporou	nano-prefixed	
+nanolex:0637	Nanoporous Material	nano-prefixed	
+nanolex:0638	Nanoporous Silica Xerogel	nano-prefixed	
+nanolex:0639	Nanoprecipitation	nano-prefixed	
+nanolex:0640	Nanoprobe	nano-prefixed	
+nanolex:0641	Nanopulse	nano-prefixed	
+nanolex:0642	Nanoring	nano-prefixed	
+nanolex:0643	Nanorod	nano-prefixed	
+nanolex:0644	Nanos3 Protein, Human	nano-prefixed	
+nanolex:0645	Nanos3 Protein, Zebrafish	nano-prefixed	
+nanolex:0646	Nanoscale Zero-Valent Iron	nano-prefixed	
+nanolex:0647	Nanoscintillator	nano-prefixed	
+nanolex:0648	Nanosecond Electric Pulse	nano-prefixed	
+nanolex:0649	Nanosensor	nano-prefixed	
+nanolex:0650	Nanosheet	nano-prefixed	
+nanolex:0651	Nanoshell	nano-prefixed	
+nanolex:0652	Nanosilica	nano-prefixed	
+nanolex:0653	Nanosilver	nano-prefixed	
+nanolex:0654	Nanosize	nano-prefixed	
+nanolex:0655	Nanosomal	nano-prefixed	
+nanolex:0656	Nanospectroscopy	nano-prefixed	
+nanolex:0657	Nanosphere	nano-prefixed	
+nanolex:0658	Nanosphere Lithography	nano-prefixed	
+nanolex:0659	Nanosponge	nano-prefixed	
+nanolex:0660	Nanostim	nano-prefixed	
+nanolex:0661	Nanostrand	nano-prefixed	
+nanolex:0662	Nanostructure	nano-prefixed	
+nanolex:0663	Nanostructure Engineering	nano-prefixed	
+nanolex:0664	Nanostructure Growth	nano-prefixed	
+nanolex:0665	Nanostructured	nano-prefixed	
+nanolex:0666	Nanostructured Electrode	nano-prefixed	
+nanolex:0667	Nanostructured Lipid Carrier (NLC)	abbreviated	
+nanolex:0668	Nanostructured Lipid Nanocarrier	nano-prefixed	
+nanolex:0669	Nanostructured Material	nano-prefixed	
+nanolex:0670	Nanostructured Polymer	nano-prefixed	
+nanolex:0671	Nanostructured Surface	nano-prefixed	
+nanolex:0672	Nanostructuring	nano-prefixed	
+nanolex:0673	Nanosuspension	nano-prefixed	
+nanolex:0674	Nanosystem	nano-prefixed	
+nanolex:0675	Nanotab	nano-prefixed	
+nanolex:0676	Nanotechnology	nano-prefixed	
+nanolex:0677	Nanotheranostic	nano-prefixed	
+nanolex:0678	Nanotherapeutic	nano-prefixed	
+nanolex:0679	Nanotherapy	nano-prefixed	
+nanolex:0680	Nanotherm	nano-prefixed	
+nanolex:0681	Nanotite	nano-prefixed	
+nanolex:0682	Nanotopography	nano-prefixed	
+nanolex:0683	Nanotoxicity	nano-prefixed	
+nanolex:0684	Nanotoxicology	nano-prefixed	
+nanolex:0685	Nanotransducer	nano-prefixed	
+nanolex:0686	Nanotube	nano-prefixed	
+nanolex:0687	Nanotube, Peptide	nano-prefixed	
+nanolex:0688	Nanotubes, Carbon	nano-prefixed	
+nanolex:0689	Nanotubes, Peptide	nano-prefixed	
+nanolex:0690	Nanovaccine	nano-prefixed	
+nanolex:0691	Nanovector	nano-prefixed	
+nanolex:0692	Nanovesicle	nano-prefixed	
+nanolex:0693	Nanoviridae	nano-prefixed	
+nanolex:0694	Nanoviru	nano-prefixed	
+nanolex:0695	Nanowire	nano-prefixed	
+nanolex:0696	Nanoxel	nano-prefixed	
+nanolex:0697	Nanozeolite	nano-prefixed	
+nanolex:0698	Nanozyme	nano-prefixed	
+nanolex:0699	Naringin	single-word	
+nanolex:0700	nb-201 Nanoemulsion	multiword	
+nanolex:0701	nb-402 Nanoemulsion	multiword	
+nanolex:0702	Neural Tissue Engineering	multiword	
+nanolex:0703	Nickel Nanoparticle	multiword	
+nanolex:0704	NIR-Responsive Nanocapsule	multiword	
+nanolex:0705	NLC (Nano-Lipid Complex)	multiword	
+nanolex:0706	Noble Metal Nanoparticle	multiword	
+nanolex:0707	Non-Small Cell Lung Cancer (NSCLC)	abbreviated	
+nanolex:0708	Non-Viral Vector	multiword	
+nanolex:0709	Nonviral Gene Delivery	multiword	
+nanolex:0710	Nose to Brain Transport Pathway	multiword	
+nanolex:0711	Nucleic Acid	multiword	
+nanolex:0712	Nucleic Acid Bionanotechnology	multiword	
+nanolex:0713	Nucleic Acid Therapeutic	multiword	
+nanolex:0714	NVX-COV2373 Adjuvated Lipid Nanoparticle	multiword	
+nanolex:0715	Oncolytic Adenovirus	multiword	
+nanolex:0716	Oncolytic Virus	multiword	
+nanolex:0717	Ontak	single-word	
+nanolex:0718	Organ-on-Chip	single-word	
+nanolex:0719	Organic Nanoparticle	multiword	
+nanolex:0720	PAMAM	abbreviated	
+nanolex:0721	Particle Trapping	multiword	
+nanolex:0722	Passive Targeting	multiword	
+nanolex:0723	Patchy Particle	multiword	
+nanolex:0724	PDPU (Plasma-Derived Product Utilization)	multiword	
+nanolex:0725	PEG Hydrogel	multiword	
+nanolex:0726	PEG-PAMAM	single-word	
+nanolex:0727	Peglated Liposome	multiword	
+nanolex:0728	PEGT-PLA	abbreviated	
+nanolex:0729	Pegylated Doxorubicin	multiword	
+nanolex:0730	Pegylated Liposome	multiword	
+nanolex:0731	Pegylated Nanoparticle	multiword	
+nanolex:0732	Peptide Amphiphile	multiword	
+nanolex:0733	Peptide Nanomedicine	multiword	
+nanolex:0734	Perfluoropentane	single-word	
+nanolex:0735	Perovskite	single-word	
+nanolex:0736	Peroxidase Mimic	multiword	
+nanolex:0737	Peroxidase-like Nanomaterial	multiword	
+nanolex:0738	Ph-responsive	single-word	
+nanolex:0739	pH-sensitive Liposome	multiword	
+nanolex:0740	PH-Triggered Drug Release	multiword	
+nanolex:0741	Phospholipid Vesicle	multiword	
+nanolex:0742	Photoacoustic Tomography	multiword	
+nanolex:0743	Photocatalytic Degradation	multiword	
+nanolex:0744	Photodynamic Inactivation	multiword	
+nanolex:0745	Photodynamic Therapy	multiword	
+nanolex:0746	Photodynamic Therapy (PDT)	abbreviated	
+nanolex:0747	Photoelectrochemical Bioanalysis	multiword	
+nanolex:0748	Photosensitizing Agent	multiword	
+nanolex:0749	Photothermal Ablation	multiword	
+nanolex:0750	Photothermal Cancer Therapy	multiword	
+nanolex:0751	Photothermal Effect	multiword	
+nanolex:0752	Photothermal Nanotherapy	multiword	
+nanolex:0753	Photothermal Response	multiword	
+nanolex:0754	Photothermal Therapy	multiword	
+nanolex:0755	Photothermal Therapy (PTT)	abbreviated	
+nanolex:0756	Photothermal-Chemotherapy	single-word	
+nanolex:0757	Phytochemical	single-word	
+nanolex:0758	PLA Nanofiber	multiword	
+nanolex:0759	Plasmon Resonance	multiword	
+nanolex:0760	Plasmonic Nanoprobe	multiword	
+nanolex:0761	Plasmonic Nanospiral	multiword	
+nanolex:0762	Platinum Nanocrystal	multiword	
+nanolex:0763	Platinum Nanoparticle	multiword	
+nanolex:0764	Platinum Nanowire	multiword	
+nanolex:0765	PLGA Nanoparticle	multiword	
+nanolex:0766	PLGA-TPG	abbreviated	
+nanolex:0767	Pluronic F127	multiword	
+nanolex:0768	Pluronic P105	multiword	
+nanolex:0769	Poloxamer	single-word	
+nanolex:0770	Poly (Lactic Acid)	multiword	
+nanolex:0771	Poly(amido amine) Dendrimer	multiword	
+nanolex:0772	Poly(amidoamine)	abbreviated	
+nanolex:0773	Poly(glycerol-sebacate)	single-word	
+nanolex:0774	Poly(lactic-co-glycolic Acid) (PLGA)	abbreviated	
+nanolex:0775	Poly(Lactic-Co-Glycolic Acid) Nanoparticle	multiword	
+nanolex:0776	Poly(n-isopropylacrylamide-co-methacrylic acid) (PNIPAM-co-MAA)	multiword	
+nanolex:0777	Poly(N-vinylcaprolactam)	single-word	
+nanolex:0778	Poly(Vinyl Alcohol)	multiword	
+nanolex:0779	Poly(γ-glutamic Acid)	multiword	
+nanolex:0780	Poly-L-Lysine Dendrigraft	multiword	
+nanolex:0781	Polyamidoamine	single-word	
+nanolex:0782	Polyaniline Nanoparticle	multiword	
+nanolex:0783	Polycaprolactone	single-word	
+nanolex:0784	Polydispersity	single-word	
+nanolex:0785	Polyelectrolyte Capsule	multiword	
+nanolex:0786	Polyelectrolyte Capsules	multiword	
+nanolex:0787	Polyelectrolyte Complexation	multiword	
+nanolex:0788	Polyethylene Glycol Dimethacrylate Hydrogel	multiword	
+nanolex:0789	Polyethylene Glycol Nanoparticle	multiword	
+nanolex:0790	Polyethylene Glycol Polyethyleneimine Nanogel	multiword	
+nanolex:0791	Polyethyleneimine (PEI)	abbreviated	
+nanolex:0792	Polyhydroxyethyl Methacrylate Hydrogel	multiword	
+nanolex:0793	Polylactic Acid	multiword	
+nanolex:0794	Polymer Blending	multiword	
+nanolex:0795	Polymer Brush	multiword	
+nanolex:0796	Polymer Functionalization	multiword	
+nanolex:0797	Polymer Nano-Micelle	multiword	
+nanolex:0798	Polymer Nanoagent	multiword	
+nanolex:0799	Polymer Nanocarrier	multiword	
+nanolex:0800	Polymer Nanocomposite	multiword	
+nanolex:0801	Polymer Nanoparticle	multiword	
+nanolex:0802	Polymer-Based Micelle	multiword	
+nanolex:0803	Polymer-Drug Conjugate	multiword	
+nanolex:0804	Polymeric Micelle	multiword	
+nanolex:0805	Polymeric Microcapsule	multiword	
+nanolex:0806	Polymeric Nanocapsule	multiword	
+nanolex:0807	Polymeric Nanoparticle	multiword	
+nanolex:0808	Polymersome	single-word	
+nanolex:0809	Polyoxometalate	single-word	
+nanolex:0810	Polypeptide Nanoparticle	multiword	
+nanolex:0811	Polyplex	single-word	
+nanolex:0812	Polyprodrug	single-word	
+nanolex:0813	Polypyrrole	single-word	
+nanolex:0814	Polystyrene Nanoparticle	multiword	
+nanolex:0815	Porous Nanomaterial	multiword	
+nanolex:0816	Porous Silicon Nanoparticle	multiword	
+nanolex:0817	Porous Structure	multiword	
+nanolex:0818	Portable Sensor	multiword	
+nanolex:0819	Pregnanolone	single-word	
+nanolex:0820	Propofol Lipid Nanoemulsion	multiword	
+nanolex:0821	Protein-Nanoparticle Interaction	multiword	
+nanolex:0822	Proteoliposome	single-word	
+nanolex:0823	Pulmonary Drug Delivery	multiword	
+nanolex:0824	Quantum Dot	multiword	
+nanolex:0825	Quantum Dot (QDs)	abbreviated	
+nanolex:0826	Quantum Dot Labeling	multiword	
+nanolex:0827	Radioimmunotherapy	single-word	
+nanolex:0828	Radiolabelled Nanoparticle	multiword	
+nanolex:0829	Rapamune ®	multiword	
+nanolex:0830	Ratiometric Fluorescent Probe	multiword	
+nanolex:0831	Reactive Oxygen Species	multiword	
+nanolex:0832	Reactive Oxygen Species (ROS)	abbreviated	
+nanolex:0833	Redox-Responsive	single-word	
+nanolex:0834	Reduced Graphene Oxide	multiword	
+nanolex:0835	Reflectance Spectrum	multiword	
+nanolex:0836	Responsive Polymer	multiword	
+nanolex:0837	RNA and DNA Nanoparticle	multiword	
+nanolex:0838	RNA Interference	multiword	
+nanolex:0839	RNA Interference Therapy	multiword	
+nanolex:0840	RNA Methylation	multiword	
+nanolex:0841	RNA Nanoparticle	multiword	
+nanolex:0842	RNA Nanostructure	multiword	
+nanolex:0843	RNA Therapeutic	multiword	
+nanolex:0844	RNA Therapy	multiword	
+nanolex:0845	Rotaxane	single-word	
+nanolex:0846	Rotaxanes	single-word	
+nanolex:0847	rt-qpcr	single-word	
+nanolex:0848	S-Nitroso-N-Acetylpenicillamine	single-word	
+nanolex:0849	S-Nitroso-N-acetylpenicillamine (SNAP)	abbreviated	
+nanolex:0850	Sandwich-Type Electrochemical Immunosensor	multiword	
+nanolex:0851	Self-Assembled Film	multiword	
+nanolex:0852	Self-Assembled Micelle	multiword	
+nanolex:0853	Self-Assembled Monolayer	multiword	
+nanolex:0854	Self-Assembled Nanoparticle	multiword	
+nanolex:0855	Self-Assembling Peptide	multiword	
+nanolex:0856	Self-Assembly	single-word	
+nanolex:0857	Self-Micro Emulsifying System	multiword	
+nanolex:0858	Self-Targeted Drug Delivery	multiword	
+nanolex:0859	Semiconductor Nanocrystal	multiword	
+nanolex:0860	Silica Nanoparticle	multiword	
+nanolex:0861	Silicon Nanowire	multiword	
+nanolex:0862	Silk Fibroin Nanoparticle	multiword	
+nanolex:0863	Silver Graphene	multiword	
+nanolex:0864	Silver Nanocluster	multiword	
+nanolex:0865	Silver Nanoparticle	multiword	
+nanolex:0866	Silver Nanowire	multiword	
+nanolex:0867	Single-Molecule Detection	multiword	
+nanolex:0868	Single-Molecule Force Spectroscopy (SMFS)	abbreviated	
+nanolex:0869	Single-Wall Carbon Nanotube (SWCNT)	abbreviated	
+nanolex:0870	Single-Walled Carbon Nanotube (SWCNT)	abbreviated	
+nanolex:0871	Single-Walled Carbon Nanotube (SWCNTs)	abbreviated	
+nanolex:0872	Singlet Oxygen-Responsive	multiword	
+nanolex:0873	siRNA Delivery	multiword	
+nanolex:0874	Site-Specific Drug Delivery	multiword	
+nanolex:0875	SLN (Spheroidal Nucleosomes)	multiword	
+nanolex:0876	Small Interfering RNA	multiword	
+nanolex:0877	Small Molecular Nanodrug	multiword	
+nanolex:0878	Smart Drug Delivery System	multiword	
+nanolex:0879	Smart Hydrogel Structure	multiword	
+nanolex:0880	SN-38	abbreviated	
+nanolex:0881	Soft Nanocomposite	multiword	
+nanolex:0882	Solid Lipid Microparticle	multiword	
+nanolex:0883	Solid Lipid Nanoparticle (SLN)	abbreviated	
+nanolex:0884	Solid Lipid Nanoparticle (SLNs)	abbreviated	
+nanolex:0885	Solid-State Electrolyte	multiword	
+nanolex:0886	Solid-State Nanopore	multiword	
+nanolex:0887	Sonocatalysis	single-word	
+nanolex:0888	Sonodynamic Therapy	multiword	
+nanolex:0889	Spheroid	single-word	
+nanolex:0890	Spheroids	single-word	
+nanolex:0891	SPIO	abbreviated	
+nanolex:0892	Spion	single-word	
+nanolex:0893	Stealth Liposome	multiword	
+nanolex:0894	Stimuli Responsive	multiword	
+nanolex:0895	Stimuli-responsive	single-word	
+nanolex:0896	Stimuli-Responsive Drug Delivery	multiword	
+nanolex:0897	Stimuli-Responsive Drug-Loaded Nanocarrier	multiword	
+nanolex:0898	Stimuli-Responsive Hydrogel	multiword	
+nanolex:0899	Stimulus-Responsive	single-word	
+nanolex:0900	Superaligned Carbon Nanotube	multiword	
+nanolex:0901	Superparamagnetic Iron Oxide Nanoparticle	multiword	
+nanolex:0902	Superparamagnetic Iron Oxide Nanoparticles (SPIONs)	abbreviated	
+nanolex:0903	Superparamagnetic Nanoparticle	multiword	
+nanolex:0904	Superparamagnetic Particle	multiword	
+nanolex:0905	Superparamagnetism	single-word	
+nanolex:0906	Supramolecular Biomaterial	multiword	
+nanolex:0907	Supramolecular Hydrogel	multiword	
+nanolex:0908	Surface Acoustic Wave (SAW)	abbreviated	
+nanolex:0909	Surface Engineering	multiword	
+nanolex:0910	Surface Enhanced Raman Spectroscopy (SERS)	abbreviated	
+nanolex:0911	Surface Functionalization	multiword	
+nanolex:0912	Surface Passivation	multiword	
+nanolex:0913	Surface Plasmon Resonance	multiword	
+nanolex:0914	Surface Plasmon Resonance (SPR)	abbreviated	
+nanolex:0915	Synthetic High-Density Lipoprotein	multiword	
+nanolex:0916	Synthetic Nanofiber	multiword	
+nanolex:0917	Syringeable Implant	multiword	
+nanolex:0918	Systemic Circulation	multiword	
+nanolex:0919	Targeted Drug Nanocarrier	multiword	
+nanolex:0920	Targeted Magnetic Hyperthermia	multiword	
+nanolex:0921	Targeted Nanoparticle	multiword	
+nanolex:0922	Targeting Ligand	multiword	
+nanolex:0923	Technetium Tc 99m Nanocolloid	multiword	
+nanolex:0924	Technetium Tc 99m Sulfur Colloid	multiword	
+nanolex:0925	Temperature Sensitive Liposome (TSL)	abbreviated	
+nanolex:0926	Tetrahydrocurcumin	single-word	
+nanolex:0927	Theranostic	single-word	
+nanolex:0928	Theranostic Nanomedicine	multiword	
+nanolex:0929	Theranostic Nanoparticle	multiword	
+nanolex:0930	Therapeutic Peptide	multiword	
+nanolex:0931	Therapeutics in Nanomedicine	multiword	
+nanolex:0932	Thermo-Sensitive Liposome	multiword	
+nanolex:0933	Thermodox	single-word	
+nanolex:0934	Thermometry	single-word	
+nanolex:0935	Thermoplasmonic	single-word	
+nanolex:0936	Thermoresponsive	single-word	
+nanolex:0937	Thermoresponsive Hydrogel	multiword	
+nanolex:0938	Thermosensitive Hydrogel	multiword	
+nanolex:0939	Thermosensitive Liposome	multiword	
+nanolex:0940	Thiolated Chitosan	multiword	
+nanolex:0941	Thiolated Gelatin Nanoparticle	multiword	
+nanolex:0942	TiO2 Nanoparticle	multiword	
+nanolex:0943	Tissue Scaffold	multiword	
+nanolex:0944	Tissue Scaffolds	multiword	
+nanolex:0945	Titania Nano-Particle	multiword	
+nanolex:0946	Titanium Dioxide Nanoparticle	multiword	
+nanolex:0947	Triboelectric Nanogenerator	multiword	
+nanolex:0948	TRPP Cation Channel	multiword	
+nanolex:0949	TRPV Cation Channel	multiword	
+nanolex:0950	Tubastatin A	multiword	
+nanolex:0951	Tumor Targeting Nanocarrier	multiword	
+nanolex:0952	Tumor-Penetrating Peptide	multiword	
+nanolex:0953	Tumor-Selective Cell Penetrating Peptide	multiword	
+nanolex:0954	Tumor-Selective Photothermal Therapy	multiword	
+nanolex:0955	Tumor-Specific Nanotherapy	multiword	
+nanolex:0956	Tumor-Targeted Nanotherapy	multiword	
+nanolex:0957	Tumor-Targeting	single-word	
+nanolex:0958	Tumor-Targeting Peptide	multiword	
+nanolex:0959	Tunneling Nanotube (TNT)	abbreviated	
+nanolex:0960	Two-Dimensional Nanomaterial	multiword	
+nanolex:0961	Two-Photon Nanoprobe	multiword	
+nanolex:0962	Ultra-Small Superparamagnetic Iron Oxide (USPIO)	abbreviated	
+nanolex:0963	Ultrasmall Superparamagnetic Iron Oxide Nanoparticle	multiword	
+nanolex:0964	Ultrasound-Triggered Nano-Sized Drug Delivery System	multiword	
+nanolex:0965	Unilamellar Liposome	multiword	
+nanolex:0966	Upconversion Nanoparticle	multiword	
+nanolex:0967	Viral Nanoparticle	multiword	
+nanolex:0968	Virosome	single-word	
+nanolex:0969	Virus-based Nanoparticle	multiword	
+nanolex:0970	Virus-like Particle	multiword	
+nanolex:0971	Visudyne	single-word	
+nanolex:0972	Yolk-Shell Structure	multiword	
+nanolex:0973	Z-Scheme Photocatalyst	multiword	
+nanolex:0974	Zinc Oxide Nanoparticle (ZnO NP)	multiword	
+nanolex:0975	Zirconia Nanoparticle	multiword	
+nanolex:0976	ZnO Nanotube	multiword	
+nanolex:0977	ZnO NP	multiword	

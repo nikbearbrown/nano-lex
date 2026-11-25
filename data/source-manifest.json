@@ -1,0 +1,29 @@
+{
+  "project": "nano-lex",
+  "language": "en",
+  "source": "entry headings of the initial NanoLex files (Data/*.md), a model-written lexicon from 2024-2025",
+  "source_repo": "nikbearbrown/nano-lex-initial-2025 (private archive)",
+  "source_commit": "9bff63f",
+  "source_files": {
+    "NanoLex.md": "92fb8f3354f4525560d5055f3303f123ccb66bc304a90ed7fb723cf54d9582fb",
+    "NanoLex_1.md": "97f61566e31cd82566805aedc904d994dcbb7bb3f181a3791aef79c13a8b00d4",
+    "NanoLex_2.md": "f5423707b80165f586d7f31c9c9f0c1dac849c4b1fcf50a9b6c95231b4b7a595",
+    "NanoLex_3.md": "8c0f742b75c5198245730af79fbdfc1c450ea0340a9509f2f5c9b8f4c5ad623b",
+    "NanoLex_4.md": "79a588109465cfdb507832a8caa9c420ab25a20c9cb8ac1de1e50b1eb4840249",
+    "NanoLex_5.md": "26ea388c369a72e25e4cd8e38a0a01df8458008b574d9497b2ba8b581ce2b205",
+    "README.md": "c072d8c46c37360d5c06d1b488e9fdcdcee25f6e6ad4b9e62e310f24995409d3"
+  },
+  "membership": "every entry heading; definitions, classifications and relations are not read",
+  "cleaning": "cut at literal \\n and '#'; plain hyphen for mis-encoded and typographic dashes; drop repeated 'Lexical Dictionary' text, '(n.)' markers, IPA parentheticals, wrapping quotes and trailing ':' or '.'; merge forms that differ only in case, quotes, trade-mark signs or spacing. Hyphen, slash and spacing-of-words variants stay separate seeds.",
+  "headings_read": 2117,
+  "headings_rejected": 2,
+  "forms_merged_away": 9,
+  "seed_count": 977,
+  "term_forms": {
+    "abbreviated": 60,
+    "multiword": 500,
+    "nano-prefixed": 307,
+    "single-word": 110
+  },
+  "sha256": "def0820e9baf4934cfbf9484c3061c5548785dc2f2821942c6b38fbc45386a38"
+}

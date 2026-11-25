@@ -1,0 +1,7 @@
+# Private run material: never commit drafts, bundles, keys or the initial lexicon's text
+runs/
+work/
+__pycache__/
+.DS_Store
+legacy-edition*.jsonl
+NanoLex*.md

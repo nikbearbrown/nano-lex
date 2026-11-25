@@ -1,0 +1,9 @@
+# Which models drafted which editions. `agreement.py join` reads this to decide self-exclusion; judges never choose it.
+# Columns (tab-separated): provider, model pattern, version pattern, editions to exclude (comma-separated), note.
+# Model patterns match the slug of --model-name (lower case, hyphens), e.g. "Claude Sonnet" -> claude-sonnet.
+# Version patterns match the version with separators turned into dots, e.g. "5-5" -> 5.5. "*" matches any.
+# Rules in join: exact match -> exclude. Version unknown and provider+model match a row -> exclude AND flag.
+# Same provider, other model or version -> no exclusion, flagged same_family_as_drafter (self-preference check).
+# Add one row per new edition. Edition names are the names used in `agreement.py run --edition NAME=...`.
+# No independent edition exists yet. The initial NanoLex (edition `legacy`) has no row: its model was not recorded.
+provider	model	version	editions	note
