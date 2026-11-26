@@ -2,9 +2,39 @@
 
 **A lexicon of nanomedicine terms, being rebuilt from independent, checked editions.**
 
-[Seed terms](data/README.md) · [Draft an edition](replication/README.md) · [Judge agreement](replication/judging/README.md) · [Reviewed lexicon](lexicon/README.md)
+[Working abstract](#abstract) · [How to contribute](CONTRIBUTING.md) · [Seed terms](data/README.md) · [Draft an edition](replication/README.md) · [Judge agreement](replication/judging/README.md) · [Reviewed lexicon](lexicon/README.md)
 
 NanoLex covers the vocabulary of nanomedicine: nanomaterials and carriers, formulations and named products, techniques, and the biological targets they act on. A Humanitarians AI terminology project.
+
+**We're inviting collaborators.** Review the method, judge agreement, review entries in your field, or take on one of the tasks listed below. You don't need to review the whole project to help. To join, follow [Getting started](CONTRIBUTING.md#getting-started) in the contributor guide.
+
+> **Drafting or judging?** Follow [AGENTS.md](AGENTS.md) and the kit it points to, and nothing else in this README. Never open the initial lexicon, another model's run or the reviewed edition while you draft.
+
+Led by Nik Bear Brown. NanoLex is one of [Humanitarians AI's papers in progress](https://github.com/nikbearbrown/hai-research).
+
+## Abstract
+
+*Working abstract. No manuscript exists yet, so this describes what the paper sets out to do. It reports no results.*
+
+The first NanoLex, about a thousand nanomedicine entries, was written by one language model in 2024 and 2025, and no claim in it was ever checked: no author, model, prompt or source was recorded for any of them. This project rebuilds it so that each claim can be audited. The 977 terms the first lexicon defined become a seed list of names only. Several language models each draft an independent edition of every term from public sources they cite, without seeing the first lexicon or one another. Automated checks reject an edition that misses a term, breaks the entry shape, cites evidence it did not link or copies the first lexicon's wording. The editions, and then the first lexicon as one more edition, are compared term by term for meaning, by model judges that drafted none of the compared entries, with human judges checking the model judges. A reviewer checks the cited source for every claim that enters the reviewed lexicon. The paper will report how far independent editions agree with one another and with the unchecked original, and what review finds. NanoLex describes terms; it is not medical advice.
+
+## Where the draft is
+
+There is no draft yet. The closest documents are [How the lexicon gets checked](#how-the-lexicon-gets-checked), below, and the [rules for the reviewed edition](lexicon/README.md).
+
+## What needs to be done
+
+- **Draft independent editions** with several model families, following the [replication kit](replication/README.md). None exists yet.
+- **Run the checks** on each edition: `check.py` for evidence and `leak_check.py` for copying.
+- **Run the agreement study**, with model judges and human judges, once the editions are frozen.
+- **Review entries** against their cited sources, with people who know nanomedicine, to build the reviewed edition.
+- **Place the work** against existing nanomedicine vocabularies and ontologies, such as eNanoMapper and the NanoParticle Ontology.
+- **Write the paper:** the method, the agreement results, how the unchecked original compares, and what review found.
+- **Recommend a journal** Northeastern covers in full (see the [contributor guide](CONTRIBUTING.md#recommend-a-journal-northeastern-covers-in-full)).
+
+## How to contribute
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md). In short: read this README, pick one task, and email Nik at bear@bearbrown.co with the subject "NanoLex: contributor" to be added to the repository. Anyone can [open an issue](https://github.com/nikbearbrown/nano-lex/issues/new) without emailing first.
 
 ## State
 
