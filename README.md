@@ -20,7 +20,7 @@ The first NanoLex, about a thousand nanomedicine entries, was written by one lan
 
 ## Where the draft is
 
-There is no draft yet. The closest documents are [How the lexicon gets checked](#how-the-lexicon-gets-checked), below, and the [rules for the reviewed edition](lexicon/README.md).
+Rough draft, not reviewed: the [paper series](paper/README.md), modelled on the WordNet papers, with the [human evaluation to-do](paper/HUMAN-EVALUATION-TODO.md). One independent Grok Bot edition is checked (977/977 pass: 805 entries, 114 duplicates, 45 unattested); a second edition, the comparison with the initial lexicon, cross-model judging and human evaluation have not been run.
 
 ## What needs to be done
 
