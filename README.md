@@ -2,7 +2,7 @@
 
 **A lexicon of nanomedicine terms, being rebuilt from independent, checked editions.**
 
-[Working abstract](#abstract) · [How to contribute](CONTRIBUTING.md) · [Seed terms](data/README.md) · [Draft an edition](replication/README.md) · [Judge agreement](replication/judging/README.md) · [Reviewed lexicon](lexicon/README.md)
+[Rough manuscript](paper/) · [Working abstract](#abstract) · [How to contribute](CONTRIBUTING.md) · [Seed terms](data/README.md) · [Draft an edition](replication/README.md) · [Judge agreement](replication/judging/README.md) · [Reviewed lexicon](lexicon/README.md)
 
 NanoLex covers the vocabulary of nanomedicine: nanomaterials and carriers, formulations and named products, techniques, and the biological targets they act on. A Humanitarians AI terminology project.
 
@@ -14,13 +14,13 @@ Led by Nik Bear Brown. NanoLex is one of [Humanitarians AI's papers in progress]
 
 ## Abstract
 
-*Working abstract. No manuscript exists yet, so this describes what the paper sets out to do. It reports no results.*
+*Working abstract. The rough protocol manuscript reports no study results.*
 
 The first NanoLex, about a thousand nanomedicine entries, was written by one language model in 2024 and 2025, and no claim in it was ever checked: no author, model, prompt or source was recorded for any of them. This project rebuilds it so that each claim can be audited. The 977 terms the first lexicon defined become a seed list of names only. Several language models each draft an independent edition of every term from public sources they cite, without seeing the first lexicon or one another. Automated checks reject an edition that misses a term, breaks the entry shape, cites evidence it did not link or copies the first lexicon's wording. The editions, and then the first lexicon as one more edition, are compared term by term for meaning, by model judges that drafted none of the compared entries, with human judges checking the model judges. A reviewer checks the cited source for every claim that enters the reviewed lexicon. The paper will report how far independent editions agree with one another and with the unchecked original, and what review finds. NanoLex describes terms; it is not medical advice.
 
 ## Where the draft is
 
-There is no draft yet. The closest documents are [How the lexicon gets checked](#how-the-lexicon-gets-checked), below, and the [rules for the reviewed edition](lexicon/README.md).
+The [rough protocol manuscript and methods review](paper/) are separate from the blind round. Supporting documents include [How the lexicon gets checked](#how-the-lexicon-gets-checked), below, and the [rules for the reviewed edition](lexicon/README.md).
 
 ## What needs to be done
 
