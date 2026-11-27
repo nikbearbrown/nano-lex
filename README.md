@@ -28,6 +28,7 @@ There is no draft yet. The closest documents are [How the lexicon gets checked](
 - **Run the checks** on each edition: `check.py` for evidence and `leak_check.py` for copying.
 - **Run the agreement study**, with model judges and human judges, once the editions are frozen.
 - **Review entries** against their cited sources, with people who know nanomedicine, to build the reviewed edition.
+- **Review the seed list** for names that are brands, spelling variants of another seed, or found in no public source. The list stays fixed, so findings go in issues (see the [contributor guide](CONTRIBUTING.md#pick-a-way-to-help)).
 - **Place the work** against existing nanomedicine vocabularies and ontologies, such as eNanoMapper and the NanoParticle Ontology.
 - **Write the paper:** the method, the agreement results, how the unchecked original compares, and what review found.
 - **Recommend a journal** Northeastern covers in full (see the [contributor guide](CONTRIBUTING.md#recommend-a-journal-northeastern-covers-in-full)).

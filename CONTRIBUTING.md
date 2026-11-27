@@ -2,9 +2,11 @@
 
 There is no draft yet, so this is a good time to shape the method. We're looking for collaborators who can draft or check independent editions, review entries in their field, or help write the paper. You don't need to review the whole project to help.
 
+**If you have an hour:** open [data/seeds.tsv](data/seeds.tsv), pick ten terms in an area you know, and [open an issue](https://github.com/nikbearbrown/nano-lex/issues/new) that says which are established terms, which are brand names, and which look misspelt, duplicated or invented. Give each term's `concept_id` and a one-line reason, with a source where you have one.
+
 ## Keep independent editions independent
 
-If you are drafting an edition, with a model or by hand, follow [AGENTS.md](AGENTS.md) and the [replication kit](replication/README.md) only. Never open the initial lexicon, another model's run, judging results or the reviewed edition while you draft, and hand your run in privately: never commit drafts, source bundles, run folders or judging keys to this repository. If you are judging, follow the [judging kit](replication/judging/README.md). Everything below is for other kinds of help, or for after you have handed in.
+If you are drafting an edition, with a model or by hand, follow [AGENTS.md](AGENTS.md) and the [replication kit](replication/README.md) only. Never open the initial lexicon, another model's run, judging results or the reviewed edition while you draft, and hand your run in privately: never commit drafts, source bundles, run folders or judging keys to this repository. If you are judging, follow the [judging kit](replication/judging/README.md). Don't read this repository's issues or pull requests before you draft or judge either, because they discuss individual terms. Everything below is for other kinds of help, or for after you have handed in.
 
 ## Getting started
 
@@ -30,6 +32,7 @@ If you are drafting an edition, with a model or by hand, follow [AGENTS.md](AGEN
 |---|---|---|
 | **Draft an independent edition** | [AGENTS.md](AGENTS.md), then the [replication kit](replication/README.md) | A complete run, handed in privately as the kit says. Name the provider, model and exact version you actually used. |
 | **Review the method** | [Seed provenance](data/README.md) and the [replication kit](replication/README.md) | Name the rule (seed selection, entry shape, scope flags) and what could go wrong, with an example, and propose a fix. |
+| **Review part of the seed list** | [data/seeds.tsv](data/seeds.tsv) and its [provenance](data/README.md) | An issue listing terms by `concept_id`. For each, say whether it is an established term, a brand name, a spelling variant of another seed, or a name you can't find in any public source, and why. Don't edit the file: the list is pinned by a hash that every edition verifies. |
 | **Judge agreement** | The [judging kit](replication/judging/README.md) | Judgments made as the kit says, by a person or by a model that drafted none of the entries it judges. |
 | **Review entries in your field** | [Rules for the reviewed edition](lexicon/README.md) | Once editions exist: check a set of claims against their cited sources and record each decision with the evidence. |
 | **Place it against existing vocabularies** | Established vocabularies such as eNanoMapper or the NanoParticle Ontology | How they name and scope these terms, and what this lexicon adds or gets wrong. Primary sources, with links. |
